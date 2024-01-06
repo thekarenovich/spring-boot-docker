@@ -1,4 +1,4 @@
-FROM amazoncorretto:17
+FROM openjdk:11
 
 MAINTAINER boottechnologies.ci@gmail.com
 
